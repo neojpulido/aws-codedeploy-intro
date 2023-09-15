@@ -3,7 +3,7 @@
 Este laboratorio le presenta AWS CodeDeploy. En este laboratorio, utilizará AWS CodeDeploy para implementar una aplicación en una instancia de Amazon EC2.
 
 
-# Temas involucrados
+# Temas involucrados 2023
 
 Al final de este laboratorio, podrá hacer lo siguiente:
 
